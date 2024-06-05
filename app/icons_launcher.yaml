@@ -1,0 +1,20 @@
+# dart run icons_launcher:create
+
+icons_launcher:
+  image_path: "assets/ic_launcher.png"
+  platforms:
+    android:
+      enable: true
+      image_path: "assets/ic_launcher.png"
+      # adaptive_background_color: '#ffffff'
+      adaptive_background_image: "assets/ic_launcher_background.png"
+      adaptive_foreground_image: "assets/ic_launcher_foreground.png"
+      adaptive_round_image: "assets/ic_launcher.png"
+      adaptive_monochrome_image: "assets/ic_launcher_monochrome.png"
+    ios:
+      enable: true
+      image_path: "assets/ic_logo_rectangle.png"
+    web:
+      enable: true
+      image_path: "assets/ic_launcher.png"
+      favicon_path: "assets/ic_launcher.png"

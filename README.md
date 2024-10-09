@@ -2,6 +2,10 @@
 
 This project is part of the Design Practicum course. It involves the development of a device named **Vital Monitoring Patch** that monitors the vital signs of neonates. The project is divided into two sub-repositories: one for the device code (Arduino) and another for the Mobile App.
 
+<img src="image/README/1728465117936.png" alt="Dashboard" style="width:300px;"/>
+<img src="image/README/1728465678569.png" alt="History" style="width:300px;"/>
+<img src="image/README/1728465849361.png" alt="Analytics" style="width:300px;"/>
+
 ## Device Code
 
 The device code is designed to continuously monitor vital signs of neonates. It uses an ESP32S3 board to connect to a MQTT broker and send sensor data such as skin temperature, heart rate, and SpO2. The project uses various libraries such as ArduinoJson, Preferences, PubSubClient, NimBLEDevice, Wire, WiFiClientSecure, Protocentral_MAX30205, and MAX30105.

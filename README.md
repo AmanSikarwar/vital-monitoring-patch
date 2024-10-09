@@ -3,9 +3,9 @@
 This project is part of the Design Practicum course. It involves the development of a device named **Vital Monitoring Patch** that monitors the vital signs of neonates. The project is divided into two sub-repositories: one for the device code (Arduino) and another for the Mobile App.
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="image/README/1728465117936.png" alt="Dashboard" style="width:300px;"/>
-    <img src="image/README/1728465678569.png" alt="History" style="width:300px;"/>
-    <img src="image/README/1728465849361.png" alt="Analytics" style="width:300px;"/>
+    <img src="image/README/1728465117936.png" alt="Dashboard" style="width:100px;"/>
+    <img src="image/README/1728465678569.png" alt="History" style="width:100px;"/>
+    <img src="image/README/1728465849361.png" alt="Analytics" style="width:100px;"/>
 </div>
 
 ## Device Code
